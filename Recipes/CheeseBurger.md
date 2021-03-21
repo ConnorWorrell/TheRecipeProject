@@ -4,15 +4,15 @@
 
 | Ingredient             | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
 | ---------------------- | -------- | ------------- | -------- | ------ | -------- | ------ |
-| Sandwich bread (white) | .25      | Slices        | 7        | g      | 0.25     | oz     |
-| Milk                   | .04166   | Cup           | 10.2     | g      | 0.36     | oz     |
-| Salt                   | .3125    | Tspn.         |          |        |          |        |
-| Pepper (Black)         | .125     | Tspn.         |          |        |          |        |
-| Garlic                 | .375     | Cloves        |          |        |          |        |
-| Worcestershire Sauce   | .1875    | Tbsp.         |          |        |          |        |
-| Ketchup                | .25      | Tbsp.         |          |        |          |        |
-| Ground Beef (Lean)     | .375     | Pounds        | 170      | g      | 6        | oz     |
-| Scallions              | .375     | Units         |          |        |          |        |
+| Sandwich bread (white) | 0.25     | Slices        | 7        | g      | 0.25     | oz     |
+| Milk                   | 0.04     | Cup           | 10       | g      | 0.36     | oz     |
+| Salt                   | 0.3      | Tspn.         |          |        |          |        |
+| Pepper (Black)         | 0.13     | Tspn.         |          |        |          |        |
+| Garlic                 | 0.38     | Cloves        |          |        |          |        |
+| Worcestershire Sauce   | 0.19     | Tbsp.         |          |        |          |        |
+| Ketchup                | 0.25     | Tbsp.         |          |        |          |        |
+| Ground Beef (Lean)     | 0.38     | Pounds        | 170      | g      | 6        | oz     |
+| Scallions              | 0.38     | Units         |          |        |          |        |
 | Hamburger Buns (Large) | 1        | Bun           |          |        |          |        |
 | Pickle (Dill)          | 4        | Pickles       |          |        |          |        |
 | Cheese Slice           | 1        | Slice         |          |        |          |        |
@@ -48,7 +48,7 @@
 ## Eating Later
 
 1. If frozen, defrost in fridge for 1 day.
-2. Microwave patty on med (7 pwr) (1min) or until sizzling.
+2. Microwave (med-high) patty (1min) or until sizzling.
 3. Toast Hamburger Buns (grill or toaster).
 4. Assemble Burger (bottom bun, mustard, patty, pickle, cheese, top bun).
 
