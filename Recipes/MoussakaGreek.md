@@ -30,11 +30,6 @@
 | Oven                                              | No         |
 | Deep Pan                                          | No         |
 | Baking Pan (25x32 cm, 10x12.5 in, for 8x serving) | No         |
-|                                                   |            |
-|                                                   |            |
-|                                                   |            |
-|                                                   |            |
-|                                                   |            |
 
 ## Instructions
 
