@@ -5,7 +5,7 @@
 | Ingredient                                                   | Standard      | Standard Unit    | Weight 1    | Unit 1   | Weight 2   | Unit 2     |
 | ------------------------------------------------------------ | ------------- | ---------------- | ----------- | -------- | ---------- | ---------- |
 | Oil (veg.)                                                   | .375          | tbsp.            |             |          |            |            |
-| [Laksa Paste]: /LaksaPaste.md	"Laksa Paste"<br />Store Bought Laksa Paste (7 oz) | .125<br />.25 | recipe<br />jar  | <br />49.6  | <br />g  | <br />1.75 | <br />oz   |
+| [Laksa Paste](/Recipes/LaksaPaste.md)<br />Store Bought Laksa Paste (7 oz) | .125<br />.25 | recipe<br />jar  | <br />49.6  | <br />g  | <br />1.75 | <br />oz   |
 | Chicken Stock or Broth                                       | .75           | cup              | 177         | g        | 6.26       | oz         |
 | Kefir Lime Leaves                                            | 1             | leaves           |             |          |            |            |
 | Salt                                                         | .125          | tspn.            |             |          |            |            |
