@@ -1,5 +1,7 @@
 # Moussaka (Greek)
 
+Try this with a [Greek Salad](/Recipes/GreekSalad.md).
+
 ## Ingredients
 
 | Ingredient                                                   | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
