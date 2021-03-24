@@ -46,15 +46,16 @@
 2. Divide noodles into balls (0.25 lb, 113 g).
 3. Wrap balls with parchment paper. Store in container in fridge.
 4. Separate Chicken and Shrimp form soup
-5. Store soup in different container in fridge.
-6. Store Chicken and Shrimp together in different container in fridge.
+5. Store soup in different container in fridge. (If storing for more than 1 week, store in freezer)
+6. Store Chicken and Shrimp together in different container in fridge. (If storing for more than 1 week, store in freezer)
 
 ## Eating Later
 
-1. Remove parchment paper form noodle ball. Place ball in bowl.
-2. Add shrimp (2 oz, 57 g) and chicken (3 oz, 85g) to bowl.
-3. Add cold soup (6 oz, 117 g) to bowl.
-4. Microwave (high, 7min).
-5. Add optional ingredients.
+1. If frozen defrost in fridge for 1 day.
+2. Remove parchment paper form noodle ball. Place ball in bowl.
+3. Add shrimp (2 oz, 57 g) and chicken (3 oz, 85g) to bowl.
+4. Add cold soup (6 oz, 117 g) to bowl.
+5. Microwave (high, 7min).
+6. Add optional ingredients.
 
 Tags: Main, Malaysian, Soup, Coconut, Microwave, Shrimp, Chicken
