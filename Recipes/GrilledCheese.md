@@ -10,7 +10,7 @@
 | Cheese Provolone (slices)                    | 2        | slices        |          |        |          |        |
 | Cream (heavy)                                | 0.25     | tbsp.         | 3.5      | g      | 0.13     | oz     |
 | Salt (sea, large)                            | 0.09     | tspn.         |          |        |          |        |
-| Mayonnaise                                   | 0.13     | cup           | 30       | g      | 1        | oz     |
+| Mayonnaise                                   | 0.13     | cup           | 30.7     | ml     | 1        | fl oz  |
 | Garlic                                       | 0.19     | cloves        |          |        |          |        |
 | Bread (fancy, thick)                         | 2        | slices        |          |        |          |        |
 
