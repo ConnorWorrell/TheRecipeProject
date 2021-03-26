@@ -31,7 +31,7 @@
 
 ## Instructions
 
-1. Preheat Oven (176 $^{\circ}$C,350 $^{\circ}$F)
+1. Preheat Oven (176 °C, 350°F)
 2. Croutons: cut bread into cubes. Toss with Olive Oil (0.25 tbsp.), salt, pepper. Spread on baking sheet. Bake (15 min).
 3. Dressing: Whisk Olive Oil, Balsamic Vinegar, Brown Sugar, Salt (optional), Pepper (optional), Oregano, and Mustard in a jar.
 4. Peel Carrots and Cucumbers. Chop Carrots, Cucumbers, Mushrooms, Tomatoes, Lettuce, and Bell Pepper.

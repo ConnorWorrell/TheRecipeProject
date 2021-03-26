@@ -59,7 +59,7 @@ Serve with a cold [Kachumber Salad](/Recipes/KachumberSalad.md).
 
    1. Mix: Saffron Threads and Milk. Cover with Aluminum foil, and wait 30 mins.
 
-   **Preheat oven to 375$^{\circ}$F (190$^{\circ}$C)**
+   **Preheat oven to 375°F (190°C)**
 
 4. **Fried Onions**
 

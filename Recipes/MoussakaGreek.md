@@ -53,7 +53,7 @@ Try this with a [Greek Salad](/Recipes/GreekSalad.md).
    4. Separate Egg Yolks from Eggs.
    5. Remove from heat. Add Nutmeg, Salt, Parmesan, egg yolks. Whisk.
 4. Assemble
-   1. Preheat oven (180 $^{\circ}$C, 350 $^{\circ}$F)
+   1. Preheat oven (180°C, 350°F)
    2. In baking pan layer potatoes, season, eggplant, season, zucchini. Seasonings are optional ingredients.
    3. Add .375 tbsp. Sauce to Meat mixture. Mix. Add evenly to pan.
    4. Add sauce evenly to pan. 
