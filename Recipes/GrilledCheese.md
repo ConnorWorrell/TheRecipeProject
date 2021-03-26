@@ -30,13 +30,13 @@
 2. Heat skillet (medium).
 3. Mince Garlic.
 4. Separately mix Mayonnaise, Minced Garlic, Salt (66%, 0.125 tspn.).
-5. Assemble sandwich (Bread, Cheddar (2 slice), Cream Cheese Mixture (145.5 g, 5.1 oz), Provolone (2 slice), Bread).
-6. Brush bread with Mayonnaise Mixture.
-7. Grill sandwich (2 min), flip, grill (2 min). Bread should be golden brown.
 
 ## Eating Now
 
-1. Eat
+1. Assemble sandwich (Bread, Cheddar (2 slice), Cream Cheese Mixture (145.5 g, 5.1 oz), Provolone (2 slice), Bread).
+2. Brush bread with Mayonnaise Mixture.
+3. Grill sandwich (2 min), flip, grill (2 min). Bread should be golden brown.
+4. Eat.
 
 ## Prep for Eating Later
 
