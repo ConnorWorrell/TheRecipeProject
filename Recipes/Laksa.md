@@ -22,7 +22,8 @@
 
 | Object    | (Optional) |
 | --------- | ---------- |
-| Stove Top | No         |
+| Stove top | No         |
+| Deep pot  | No         |
 
 
 ## Instructions

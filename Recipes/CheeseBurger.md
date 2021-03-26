@@ -23,6 +23,8 @@
 | Object      | (Optional) |
 | ----------- | ---------- |
 | Grill       | No         |
+| Skillet     | No         |
+| Toaster     | Yes        |
 | Cookie rack | Yes        |
 
 ## Instructions

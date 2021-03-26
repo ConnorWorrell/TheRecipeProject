@@ -24,6 +24,7 @@
 | Object    | (Optional) |
 | --------- | ---------- |
 | Stove top | No         |
+| Deep pot  | No         |
 | Shredder  | Yes        |
 
 

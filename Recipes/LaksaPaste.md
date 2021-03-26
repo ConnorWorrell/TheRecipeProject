@@ -24,7 +24,7 @@ Note: This is a component for a recipe ([Laksa](/Recipes/Laksa.md)), so the serv
 
 | Object                                                       | (Optional) |
 | ------------------------------------------------------------ | ---------- |
-| Food Processor<br />Blender (This will kill a cheap blender) | No<br />No |
+| Food Processor<br />Blender (This will kill a cheap blender) | No         |
 
 
 ## Instructions

@@ -17,11 +17,11 @@
 
 ## Objects
 
-| Object                      | (Optional)   |
-| --------------------------- | ------------ |
-| Stove Top                   | No           |
-| Skillet                     | No           |
-| Food Processor<br />Blender | Yes<br />Yes |
+| Object                      | (Optional) |
+| --------------------------- | ---------- |
+| Stove Top                   | No         |
+| Skillet                     | No         |
+| Food Processor<br />Blender | Yes        |
 
 
 ## Instructions
