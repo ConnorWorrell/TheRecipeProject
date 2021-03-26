@@ -37,24 +37,24 @@ Try this with a [Greek Salad](/Recipes/GreekSalad.md).
 ## Instructions
 
 1. Vegetables
-   1. Heat pan with oil (0.75 tbsp, high).
+   1. Heat skillet with oil (0.75 tbsp, high).
    2. Peel Potatoes. Slice Potatoes, Eggplant, Zucchini into thin rounds.
    3. Fry in oil (10 min). Move to pan lined with paper towels, drain excess oil.
 2. Meat
-   1. Heat pan with oil (0.25 tbsp, high).
+   1. Heat skillet with oil (0.25 tbsp, high).
    2. Chop Onion (coarse), garlic (fine). Add to pan with thyme and sugar. Sauté (3 min).
    3. Add Beef. Add Tomato Paste. Sauté (2 min).
    4. Add Chopped Tomatoes. Lower heat, simmer (10 min).
    5. Remove from heat. Add Parsley, Basil, Salt, Pepper.
 3. Sauce
-   1. Heat pot (medium). Melt butter.
+   1. Heat sauce pan (medium). Melt butter.
    2. Add flour, whisk. Add milk slowly, whisk continuously.
    3. Heat until bubbles form and mixture thickens.
    4. Separate Egg Yolks from Eggs.
    5. Remove from heat. Add Nutmeg, Salt, Parmesan, egg yolks. Whisk.
 4. Assemble
    1. Preheat oven (180 $^{\circ}$C, 350 $^{\circ}$F)
-   2. In baking pan layer potatoes, season, eggplant, season, zucchini. 
+   2. In baking pan layer potatoes, season, eggplant, season, zucchini. Seasonings are optional ingredients.
    3. Add .375 tbsp. Sauce to Meat mixture. Mix. Add evenly to pan.
    4. Add sauce evenly to pan. 
    5. Bake (40 min). Remove. Cool.
