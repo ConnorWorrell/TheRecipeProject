@@ -1,5 +1,7 @@
 # Grilled Cheese
 
+Note, these servings are quite small, you might want to cook 2 sandwiches.
+
 ## Ingredients
 
 | Ingredient                                   | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
