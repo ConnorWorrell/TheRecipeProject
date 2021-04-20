@@ -1,6 +1,6 @@
 # Grilled Cheese
 
-Note, these servings are quite small, you might want to cook 2 sandwiches.
+Note, these servings are quite small, you might want to cook 2 sandwiches. I highly recommend something healthy to go with this like a salad.
 
 ## Ingredients
 
@@ -15,7 +15,8 @@ Note, these servings are quite small, you might want to cook 2 sandwiches.
 | Mayonnaise                                   | 0.13     | cup           | 30.7     | ml     | 1        | fl oz  |
 | Garlic                                       | 0.19     | cloves        |          |        |          |        |
 | Bread (fancy, thick)                         | 2        | slices        |          |        |          |        |
-| Meat "bits" (optional)                       |          |               |          |        |          |        |
+| Meat  (optional)                             |          |               |          |        |          |        |
+| Vegetables (optional)                        |          |               |          |        |          |        |
 
 
 ## Objects
@@ -36,7 +37,7 @@ Note, these servings are quite small, you might want to cook 2 sandwiches.
 
 ## Eating Now
 
-1. Assemble sandwich (Bread, Cheddar (2 slice), Cream Cheese Mixture (48 g, 1.7 oz), Meat "bits" (optional), Provolone (2 slice), Bread).
+1. Assemble sandwich (Bread, Cheddar (2 slice), Cream Cheese Mixture (48 g, 1.7 oz), optional ingredients, Provolone (2 slice), Bread).
 2. Brush bread with Mayonnaise Mixture (13 g per side).
 3. Grill sandwich (2 min), flip, grill (2 min). Bread should be golden brown.
 4. Eat.
