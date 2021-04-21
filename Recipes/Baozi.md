@@ -1,27 +1,27 @@
 # Baozi (Steamed Pork Buns)
 
-Each serving is 1 bun.
+Each serving is 1 bun, you might need 2-3 as a true serving.
 
 ## Ingredients
 
-| Ingredient                    | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
-| ----------------------------- | -------- | ------------- | -------- | ------ | -------- | ------ |
-| Active Dry Yeast              | .08      | Tspn.         | .25      | g      |          | oz     |
-| Sugar                         |          |               | .6       | g      |          |        |
-| Flour                         |          |               | 29       | g      |          |        |
-| Pork (Ground)                 |          |               | 35       | g      |          |        |
-| Oil (Vegetable)               | .15      | Tbsp.         |          |        |          |        |
-| Sherry                        | .1       | Tbsp.         |          |        |          |        |
-| Soy Sauce (Dark)              |          |               |          |        |          |        |
-| Sweet Bean Sauce/Hoisin Sauce | .05      | Tbsp.         |          |        |          |        |
-| Ground Bean Sauce             | .1       | Tbsp.         |          |        |          |        |
-| Oyster Sauce                  | .05      | Tbsp.         |          |        |          |        |
-| White Pepper                  | .025     | Tspn.         |          |        |          |        |
-| Sesame Oil                    | .1       | Tspn.         |          |        |          |        |
-| Cornstarch                    | .075     | Tspn.         |          |        |          |        |
-| Ginger (Minced)               | .1       | Tspn.         |          |        |          |        |
-| Scallion (Chopped)            | .15      | Scallions     |          |        |          |        |
-| Onion (Diced)                 | 0.05     | Onions        |          |        |          |        |
+| Ingredient                         | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
+| ---------------------------------- | -------- | ------------- | -------- | ------ | -------- | ------ |
+| Active Dry Yeast                   | .08      | Tspn.         | .25      | g      |          |        |
+| Sugar                              | .045     | Tbsp.         | .6       | g      |          |        |
+| Flour                              | .23      | Cups          | 29       | g      |          |        |
+| Pork (Ground)                      | .077     | lb            | 35       | g      |          |        |
+| Oil (Vegetable)                    | .15      | Tbsp.         |          |        |          |        |
+| Sherry                             | .1       | Tbsp.         |          |        |          |        |
+| Soy Sauce (Dark)                   | .05      | Tbsp.         |          |        |          |        |
+| Sweet Bean Sauce<br />Hoisin Sauce | .05      | Tbsp.         |          |        |          |        |
+| Ground Bean Sauce                  | .1       | Tbsp.         |          |        |          |        |
+| Oyster Sauce                       | .05      | Tbsp.         |          |        |          |        |
+| White Pepper                       | .025     | Tspn.         |          |        |          |        |
+| Sesame Oil                         | .1       | Tspn.         |          |        |          |        |
+| Cornstarch                         | .075     | Tspn.         |          |        |          |        |
+| Ginger (Minced)                    | .1       | Tspn.         |          |        |          |        |
+| Scallion (Chopped)                 | .15      | Scallions     |          |        |          |        |
+| Onion (Diced)                      | 0.05     | Onions        |          |        |          |        |
 
 ## Objects
 
@@ -35,7 +35,7 @@ Each serving is 1 bun.
 
 1. Dough
    1. Dissolve yeast, sugar (.4 g), lukewarm water (.075 cups). Wait 15 mins.
-   2. Add flower 0.5 cups at a time, knead until soft and not sticky.
+   2. Add flower gradually, knead until soft and not sticky.
    3. Form ball, cover with damp towel, place in warm space, wait 1 hour.
 2. Filling
    1. Add ground pork and 0.15 Tbsp. water to bowl. Mix.
@@ -47,14 +47,15 @@ Each serving is 1 bun.
    7. Add scallions.
 3. Assemble
    1. Clean surface dusted with flour. Knead dough for 2 min. 
-   2. Divide into servings
+   2. Divide into servings.
    3. Flatten into circle, with thin edge, and thick center.
    4. Add filling to center. Seal filling inside dough ball.
    5. Place on parchment paper. Rest for 15 mins.
 4. Steaming
-   1. Add cold water to steamer. 
-   2. Medium heat, steam for 15 mins.
-   3. Turn heat off. steam for 5 mins.
+   1. Prep steamer with oil (if necessary), parchment paper strips between vertical layers.
+   2. Add cold water to steamer. 
+   3. Medium heat, steam for 15 mins.
+   4. Turn heat off. steam for 5 mins.
 
 ## Eating Now
 
