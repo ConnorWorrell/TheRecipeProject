@@ -42,7 +42,7 @@ Each serving is 1 bun, you might need 2-3 as a true serving.
    2. Preheat pan/wok, add 0.15 Tbsp vegetable oil, Minced Ginger, Diced Onion. Cook medium until onion softens.
    3. Add ground pork. Cook high until not red.
    4. Add sherry, dark soy sauce, sweet bean sauce, ground bean sauce, oyster sauce, sugar (0.2 g), white pepper, sesame oil.
-   5. High heat, stir until combined. Cook liquid off.
+   5. High heat, stir until combined. Cook liquid to paste **Very Important**.
    6. Mix corn starch with water (.05 Tbsp.) . Add to pan/wok. Cook 0.5 mins. Remove from heat, cool.
    7. Add scallions.
 3. Assemble
