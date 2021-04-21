@@ -4,6 +4,8 @@ Finding and keeping track of recipes is a lot of work, so I created this reposit
 
 All these recipes are modified from various sources (web, books, etc.) They all include detailed information on the quantity of items that must be purchased to make them, and straight forward instructions how how to cook, eat, store, and reheat each dish.  Some dishes even include recommended sides!
 
+The recipes are used as a reference not detailed instructions, if you don't understand a step, use google to get more detailed instructions.
+
 ## How to read a recipe
 
 Every recipe has ingredients listed for a single serving unless specified otherwise. Just multiply every number by the number of servings that you want to cook.
