@@ -34,7 +34,7 @@
 1. Cook Rice per instructions
 2. Heat oil in skillet over medium-high heat.
 3. Mince Garlic, Grate Ginger.
-4. Add Red Curry Paste, Garlic, Ginger, cook 2 mins.
+4. Add Red Curry Paste, Garlic, Ginger, and Lemongrass cook 2 mins.
 5. Add Chicken Broth, stir 3 mins.
 6. Cut chicken into thick-ish slices
 7. Add Coconut Milk, Lime Leaves, Sugar, Fish Sauce, and Chicken. Medium heat, simmer 10 mins.
@@ -44,7 +44,7 @@
 
 ## Eating Now
 
-1. Serve next to cooked rice. Add optional ingredients.
+1. Serve ontop of cooked rice. Add optional ingredients.
 
 ## Prep for Eating Later
 
@@ -52,7 +52,7 @@
 
 ## Eating Later
 
-1. Thaw if frozen, microwave curry and rice separately
-2. Combine and serve
+1. Thaw if frozen, microwave curry and rice separately.
+2. Combine and serve.
 
 Tags: 
