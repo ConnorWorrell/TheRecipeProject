@@ -7,7 +7,7 @@
 | Red Curry Paste                                   | 1.5       | Tbsp.            | 42.5     | g      | 1.5      | oz     |
 | Garlic                                            | 0.5       | Cloves           |          |        |          |        |
 | Ginger                                            | 0.5       | Tspn.            |          |        |          |        |
-| Lemongrass (Finely Chopped)<br />Lemongrass Paste | 2 <br />1 | Tspn.<br />Tbsp. |          |        |          |        |
+| Lemongrass (Finely Chopped)<br />Lemongrass Paste | 0.5 <br />0.25 | Tspn.<br />Tbsp. |          |        |          |        |
 | Red Chili (Optional)                              |           |                  |          |        |          |        |
 | Coriander (Optional)<br />Cilantro (Optional)     |           |                  |          |        |          |        |
 | Oil (Vegetable)                                   | 0.75      | Tbsp.            |          |        |          |        |
