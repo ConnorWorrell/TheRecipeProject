@@ -38,7 +38,7 @@
 5. Add Chicken Broth, stir 3 mins.
 6. Cut chicken into thick-ish slices
 7. Add Coconut Milk, Lime Leaves, Sugar, Fish Sauce, and Chicken. Medium heat, simmer 10 mins.
-8. Cut pumpkin into half inch cubes, green beans into 2 inch pieces.
+8. Cut pumpkin into half inch cubes, green beans into 2 inch pieces, remove hard ends.
 9. Add pumpkin and green beans. Cook 3 mins.
 10. Remove from heat, Add Basil, Stir.
 
