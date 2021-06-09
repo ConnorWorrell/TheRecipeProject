@@ -1,5 +1,7 @@
 # Cracker Jack
 
+Note: this recipe makes 1 gallon, not a single serving.
+
 ## Ingredients
 
 | Ingredient | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
