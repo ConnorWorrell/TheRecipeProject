@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-|    Ingredient     | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
-|    ----------     | -------- | ------------- | -------- | ------ | -------- | ------ |
-|                   |          |               |          | g      |          | oz     |
+|      Ingredient       | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
+|      ----------       | -------- | ------------- | -------- | ------ | -------- | ------ |
+|                       |          |               |          | g      |          | oz     |
 
 ## Objects
 
-|    Object    | (Optional) |
-|    ------    | ---------- |
-|              |            |
+|      Object      | (Optional) |
+|      ------      | ---------- |
+|                  |            |
 
 ## Instructions
 
