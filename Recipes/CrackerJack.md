@@ -16,7 +16,7 @@
 
 | Object | (Optional) |
 | ------ | ---------- |
-| Sauce Pan |         |
+| Sauce Pan | No     |
 
 ## Instructions
 
