@@ -26,7 +26,7 @@
 3. While beating, add sugar 2 Tbsp. at a time. 
 4. Add vanilla, nuts, brickle bits, mix.
 5. Line baking sheet with foil, place teaspoons.
-6. Bake for at least 8 hours.
+6. Put in oven, turn off ehat, bake for at least 8 hours.
 
 ## Eating Now
 
