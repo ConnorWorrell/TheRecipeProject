@@ -26,7 +26,7 @@ Note: 1 serving is 1 waffle (0.2 cups batter).
 ## Instructions
 
 1. Preheat waffle iron.
-2. Mix eggs, flour, milk, 0.5 Cup Butter (melted), sugar, baking pwd., salt, vanilla.
+2. Mix eggs, flour, milk, 0.05 Cup Butter (melted), sugar, baking pwd., salt, vanilla.
 3. Spread thin coat of remaining butter over waffle iron between each batch, Pour mix into waffle iron in quantiy listed in iron instructions.
 4. After all batter is used, use remaining melted butter to clean iron.
 
