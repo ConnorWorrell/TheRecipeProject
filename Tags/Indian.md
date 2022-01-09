@@ -1,4 +1,4 @@
 # Indian
 
-[KachumberSalad](/Recipes/KachumberSalad.md)
-[Biryani](/Recipes/Biryani.md)
+1. [KachumberSalad](/Recipes/KachumberSalad.md)
+2. [Biryani](/Recipes/Biryani.md)

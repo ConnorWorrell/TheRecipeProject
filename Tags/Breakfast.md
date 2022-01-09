@@ -1,3 +1,3 @@
 # Breakfast
 
-[Waffles](/Recipes/Waffles.md)
+1. [Waffles](/Recipes/Waffles.md)

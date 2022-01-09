@@ -1,3 +1,3 @@
 # Chinese
 
-[Baozi](/Recipes/Baozi.md)
+1. [Baozi](/Recipes/Baozi.md)

@@ -1,4 +1,4 @@
 # Salad
 
-[KachumberSalad](/Recipes/KachumberSalad.md)
-[GreekSalad](/Recipes/GreekSalad.md)
+1. [KachumberSalad](/Recipes/KachumberSalad.md)
+2. [GreekSalad](/Recipes/GreekSalad.md)

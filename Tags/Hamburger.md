@@ -1,3 +1,3 @@
 # Hamburger
 
-[CheeseBurger](/Recipes/CheeseBurger.md)
+1. [CheeseBurger](/Recipes/CheeseBurger.md)

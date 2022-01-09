@@ -1,3 +1,3 @@
 # Side
 
-[GreekSalad](/Recipes/GreekSalad.md)
+1. [GreekSalad](/Recipes/GreekSalad.md)

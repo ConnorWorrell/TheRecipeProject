@@ -79,7 +79,7 @@ TagsSorted.sort()
 # Write the files in Tags folder
 for Tag in TagDB.keys():
     file = open(AbsPath + '/Tags/' + Tag + ".md", 'w')
-    file.writelines(["# " + Tag + "\n\n"] + [Recipe2Link(recipe) + "\n" for recipe in TagDB[Tag]])
+    file.writelines(["# " + Tag + "\n\n"] + [str(number + 1) + ". " + Recipe2Link(recipe) + "\n" for number, recipe in enumerate(TagDB[Tag])])
 
 # Find unused tag files
 UnusedTagFiles = os.listdir(AbsPath + "/Tags")

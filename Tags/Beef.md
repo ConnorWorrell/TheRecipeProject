@@ -1,6 +1,6 @@
 # Beef
 
-[MoussakaGreek](/Recipes/MoussakaGreek.md)
-[Pho](/Recipes/Pho.md)
-[CheeseBurger](/Recipes/CheeseBurger.md)
-[BeefBurritos](/Recipes/BeefBurritos.md)
+1. [MoussakaGreek](/Recipes/MoussakaGreek.md)
+2. [Pho](/Recipes/Pho.md)
+3. [CheeseBurger](/Recipes/CheeseBurger.md)
+4. [BeefBurritos](/Recipes/BeefBurritos.md)

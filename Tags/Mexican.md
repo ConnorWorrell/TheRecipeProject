@@ -1,3 +1,3 @@
 # Mexican
 
-[BeefBurritos](/Recipes/BeefBurritos.md)
+1. [BeefBurritos](/Recipes/BeefBurritos.md)

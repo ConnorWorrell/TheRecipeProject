@@ -1,3 +1,3 @@
 # Shrimp
 
-[Laksa](/Recipes/Laksa.md)
+1. [Laksa](/Recipes/Laksa.md)

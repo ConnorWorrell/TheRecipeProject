@@ -1,3 +1,3 @@
 # Cheese
 
-[GrilledCheese](/Recipes/GrilledCheese.md)
+1. [GrilledCheese](/Recipes/GrilledCheese.md)

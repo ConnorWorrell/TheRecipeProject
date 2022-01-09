@@ -1,3 +1,3 @@
 # Taiwanese
 
-[RedCurry](/Recipes/RedCurry.md)
+1. [RedCurry](/Recipes/RedCurry.md)

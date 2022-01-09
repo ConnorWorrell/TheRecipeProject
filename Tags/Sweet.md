@@ -1,3 +1,3 @@
 # Sweet
 
-[CrackerJack](/Recipes/CrackerJack.md)
+1. [CrackerJack](/Recipes/CrackerJack.md)
