@@ -38,4 +38,4 @@ Not recommended.
 
 1. Mix into hot liquid (wine, meat drippings or cream)
 
-Tags: 
+Tags: [Sauce](/Tags/Sauce.md) [Component](/Tags/Component.md) 

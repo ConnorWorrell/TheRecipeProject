@@ -52,4 +52,4 @@
    (If stored for more than 1 week use new mushrooms)
 2. Add to bowl. Add optional ingredients. Serve.
 
-Tags: Side
+Tags: [Salad](/Tags/Salad.md) [Side](/Tags/Side.md) 

@@ -58,5 +58,5 @@
 2. Place beef, bean sprouts, lemon, chilies, fresh herbs, Hosin Sauce, and Chili Sauce on top of soup.
 3. Serve.
 
-Tags: Main, Soup
+Tags: [Soup](/Tags/Soup.md) [Vietnamese](/Tags/Vietnamese.md) [Beef](/Tags/Beef.md) 
 

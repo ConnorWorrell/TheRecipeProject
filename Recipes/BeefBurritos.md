@@ -52,4 +52,4 @@
 3. Assemble burrito (Tortilla, Refried Beans, Jalapeno Mixture, Lettuce, Sour Cream, Cheddar Cheese).
 4. Fold. Serve.
 
-Tags: Main, Mexican
+Tags: [Mexican](/Tags/Mexican.md) [Beef](/Tags/Beef.md) 

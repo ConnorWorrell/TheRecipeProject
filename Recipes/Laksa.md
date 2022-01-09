@@ -59,4 +59,4 @@
 5. Microwave (high, 7min).
 6. Add optional ingredients.
 
-Tags: Main, Malaysian, Soup, Coconut, Microwave, Shrimp, Chicken
+Tags: [Malaysian](/Tags/Malaysian.md) [Soup](/Tags/Soup.md) [Shrimp](/Tags/Shrimp.md) [Chicken](/Tags/Chicken.md) 

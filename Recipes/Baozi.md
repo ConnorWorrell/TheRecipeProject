@@ -70,4 +70,4 @@ Each serving is 1 bun, you might need 2-3 as a true serving.
 1. If refrigerated: Microwave 2 mins or steam for 5 mins.
 2. If frozen: Steam for 8 mins.
 
-Tags: 
+Tags: [Chinese](/Tags/Chinese.md) [Pork](/Tags/Pork.md) 

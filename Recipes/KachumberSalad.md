@@ -32,4 +32,4 @@
 
 1. Serve.
 
-Tags: 
+Tags: [Salad](/Tags/Salad.md) [Indian](/Tags/Indian.md) 

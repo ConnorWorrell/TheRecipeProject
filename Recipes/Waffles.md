@@ -42,4 +42,4 @@ Note: 1 serving is 1 waffle (0.2 cups batter).
 
 1. Add less cooked waffle to toaster.
 
-Tags: 
+Tags: [Breakfast](/Tags/Breakfast.md) 

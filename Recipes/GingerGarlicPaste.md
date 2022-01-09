@@ -36,4 +36,4 @@ This recipe is a component of the [Biryani](/Recipes/Biryani.md) recipe. This re
 
 1. Use frozen cube in recipe.
 
-Tags: 
+Tags: [Component](/Tags/Component.md) 

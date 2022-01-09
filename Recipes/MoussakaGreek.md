@@ -72,4 +72,4 @@ Try this with a [Greek Salad](/Recipes/GreekSalad.md).
 1. Remove serving from refrigerated pan. Microwave (medium, 4 min).
 2. Add herbs and olive oil.
 
-Tags: Main, Potato, Beef
+Tags: [Greek](/Tags/Greek.md) [Beef](/Tags/Beef.md) 
