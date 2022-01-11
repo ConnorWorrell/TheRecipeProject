@@ -28,7 +28,11 @@ NotTags = ["Tags:","\n",""]
 for Recipe in Recipes:
     RecipeName = Recipe.split(".md")[0]
     # Open file
-    file = open(AbsPath + '/Recipes/' + Recipe,'r')
+    try:
+        file = open(AbsPath + '/Recipes/' + Recipe,'r')
+    except:
+        # Directorys arn't indexed
+        continue
     Lines = file.readlines()
     RecipeTags = []
     RecipeFile = []
