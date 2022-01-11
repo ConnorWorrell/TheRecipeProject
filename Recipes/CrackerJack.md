@@ -39,4 +39,4 @@ Note: this recipe makes 1 gallon, not a single serving.
 
 1. Eat.
 
-Tags: 
+Tags: [Popcorn](/Tags/Popcorn.md) [Desert](/Tags/Desert.md) [Sweet](/Tags/Sweet.md) 

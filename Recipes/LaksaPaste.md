@@ -36,4 +36,4 @@ Note: This is a component for a recipe ([Laksa](/Recipes/Laksa.md)), so the serv
 
 Use imminently or store in a jar in fridge.
 
-Tags: Component
+Tags: [Component](/Tags/Component.md) 

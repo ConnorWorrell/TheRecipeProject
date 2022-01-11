@@ -96,4 +96,4 @@ Serve with a cold [Kachumber Salad](/Recipes/KachumberSalad.md).
 
 1. Microwave 3 mins.
 
-Tags: 
+Tags: [Chicken](/Tags/Chicken.md) [Indian](/Tags/Indian.md) 

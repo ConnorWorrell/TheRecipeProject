@@ -52,4 +52,4 @@ Note, these servings are quite small, you might want to cook 2 sandwiches. I hig
 2. Brush bread with Mayonnaise Mixture (13 g per side).
 3. Grill sandwich (2 min), flip, grill (2 min). Bread should be golden brown.
 
-Tags: Main, Cheese, Grill
+Tags: [Cheese](/Tags/Cheese.md) 

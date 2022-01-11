@@ -54,4 +54,4 @@
 3. Toast Hamburger Buns (grill or toaster).
 4. Assemble Burger (bottom bun, mustard, patty, pickle, cheese, top bun).
 
-Tags: Main, Hamburger, Cheeseburger, Microwave, Freezer, Beef
+Tags: [Hamburger](/Tags/Hamburger.md) [Beef](/Tags/Beef.md) 

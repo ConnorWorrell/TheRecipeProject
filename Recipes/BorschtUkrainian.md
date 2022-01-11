@@ -52,4 +52,4 @@
 
 1. Add to bowl (300 g, 10 oz). Microwave (high, 7 min).
 
-Tags: Main, Soup, Ukrainian
+Tags: [Soup](/Tags/Soup.md) [Ukrainian](/Tags/Ukrainian.md) 

@@ -55,4 +55,4 @@
 1. Thaw if frozen, microwave curry and rice separately.
 2. Combine and serve.
 
-Tags: 
+Tags: [Chicken](/Tags/Chicken.md) [Taiwanese](/Tags/Taiwanese.md) 
